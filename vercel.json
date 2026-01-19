@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "builds": [{ "src": "api/voice.js", "use": "@vercel/node" }],
+  "routes": [{ "src": "/voice", "dest": "/api/voice.js" }]
+}
