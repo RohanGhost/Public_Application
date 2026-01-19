@@ -4,10 +4,7 @@
   "description": "Simple XML API hosted on Vercel",
   "main": "index.js",
   "scripts": {
-    "dev": "vercel dev",
-    "start": "vercel dev"
+    "dev": "vercel dev"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC"
 }
